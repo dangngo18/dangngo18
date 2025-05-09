@@ -1,8 +1,8 @@
 # 💫 About Me:
 🔭 Hello, I’m Hai Dang.<br>
 💻 I’m a web developer with expertise in developing user interfaces and handling data. <br>
-😎 I'm passionate <br>about researching, analyzing, and implementing solutions to provide the best website user experience. <br>
-Additionally, I have skills in interface design and basic backend programming that enable me to produce high-quality products.
+🔥 I'm passionate about researching, analyzing, and implementing solutions to provide the best website user experience. <br>
+😎 Additionally, I have skills in interface design and basic backend programming that enable me to produce high-quality products.
 
 
 ## 🌐 Socials:
